@@ -10,5 +10,10 @@
       "on": {
         "branch": "master"
       }
-    }
+    },
+    "env": {
+      "global": {
+        "secure": "petHNAqI5+CmQ5aB070IfeoC0NfpLILfO5lfARWSs7+Y7IDzoeBTzwA42BTRGfAXHDSkAhixTEYPXG+/66lFIYBubNmwiuBs8VqnMaav72cXzuVUscA6paUI9KQNSSjgLk3vyb0zHNuV5GU8OaFRmZyvRyP8mxIN2GwAHqacTx34rxh6gAQerAva2dvMq7uWacZ652ae0TMGX26pzFI/jCqKXa2VbaSOCNcoypBsft7GEA7UG6wqg7nhmi8e0/YM9Be025B350ROJTlmeVROsC1yYjIMXboiJXb6cPGOiIlsUaHG1xegps1WWxUnsQ/+P0Fw4vUrsOYTodbJWRAuiN5spOBd1BrFQYVBqPbMdF4sLGkQ9YTxH7q/MtJZ00GjDMg0N/8bWhgA0yW0U0YxeXEc3SqIxY05ZiIRFeh1rFHSPljQljhd7igtceEhpGQ9VdD7izgMeTL6GP+UAxwwXGb7pyegEOcH/7S8HRyk7HiNQnqSb8jo8T5KQSpZY86Ax8VSx98RKJUvfF3e5QDMuGONrxVbs7ugia/0BaEP0I7uYJMdnEhOK8oKn7FMFf7tCy0F6+nhOZcj3lxutC/QYyYPiBAC/5ydxYGNsOQ9YDHzTnOaKMk+3KMTvsYtgQbBYaUYwWckwf7MSk5h+DqzcS2v0OuwZQxt1H6fke64k5E="
+      }
+   }
 }
