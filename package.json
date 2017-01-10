@@ -1,0 +1,19 @@
+{
+  "name": "asd-test-test-test-test-test",
+  "version": "1.0.0",
+  "description": "readme readme readme asd asd asd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamo/test.git"
+  },
+  "author": "Jarmo Isotalo <jarmo@isotalo.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamo/test/issues"
+  },
+  "homepage": "https://github.com/jamo/test#readme"
+}
